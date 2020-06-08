@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-antd-study/static/css/main.f7d842f3.chunk.css",
+    "main.js": "/react-antd-study/static/js/main.6623378f.chunk.js",
+    "main.js.map": "/react-antd-study/static/js/main.6623378f.chunk.js.map",
+    "runtime-main.js": "/react-antd-study/static/js/runtime-main.df6dc6c5.js",
+    "runtime-main.js.map": "/react-antd-study/static/js/runtime-main.df6dc6c5.js.map",
+    "static/css/2.2f58223a.chunk.css": "/react-antd-study/static/css/2.2f58223a.chunk.css",
+    "static/js/2.5f96f2c6.chunk.js": "/react-antd-study/static/js/2.5f96f2c6.chunk.js",
+    "static/js/2.5f96f2c6.chunk.js.map": "/react-antd-study/static/js/2.5f96f2c6.chunk.js.map",
+    "index.html": "/react-antd-study/index.html",
+    "precache-manifest.c6d0d55925c1511712d1c617d010f25c.js": "/react-antd-study/precache-manifest.c6d0d55925c1511712d1c617d010f25c.js",
+    "service-worker.js": "/react-antd-study/service-worker.js",
+    "static/css/2.2f58223a.chunk.css.map": "/react-antd-study/static/css/2.2f58223a.chunk.css.map",
+    "static/css/main.f7d842f3.chunk.css.map": "/react-antd-study/static/css/main.f7d842f3.chunk.css.map",
+    "static/js/2.5f96f2c6.chunk.js.LICENSE.txt": "/react-antd-study/static/js/2.5f96f2c6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-antd-study/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df6dc6c5.js",
+    "static/css/2.2f58223a.chunk.css",
+    "static/js/2.5f96f2c6.chunk.js",
+    "static/css/main.f7d842f3.chunk.css",
+    "static/js/main.6623378f.chunk.js"
+  ]
+}
